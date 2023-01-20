@@ -1,0 +1,120 @@
+Time 0
+Waiting clients: (0,2,5); (1,2,6); (2,3,4); (3,1,4); (4,3,7); (5,1,7); (6,3,7); (7,1,5); (8,3,6); (9,1,5); 
+Queue 4:[], waitingPeriod=0
+Queue 5:[], waitingPeriod=0
+Queue 6:[], waitingPeriod=0
+
+Time 1
+Waiting clients: (0,2,5); (1,2,6); (2,3,4); (4,3,7); (6,3,7); (8,3,6); 
+Queue 4:[(3,1,4), (9,1,5)], waitingPeriod=9
+Queue 5:[(5,1,7)], waitingPeriod=7
+Queue 6:[(7,1,5)], waitingPeriod=5
+
+Time 2
+Waiting clients: (2,3,4); (4,3,7); (6,3,7); (8,3,6); 
+Queue 4:[(3,1,3), (9,1,5)], waitingPeriod=8
+Queue 5:[(5,1,6), (1,2,6)], waitingPeriod=12
+Queue 6:[(7,1,4), (0,2,5)], waitingPeriod=9
+
+Time 3
+Waiting clients: 
+Queue 4:[(3,1,2), (9,1,5), (2,3,4), (6,3,7)], waitingPeriod=18
+Queue 5:[(5,1,5), (1,2,6), (8,3,6)], waitingPeriod=17
+Queue 6:[(7,1,3), (0,2,5), (4,3,7)], waitingPeriod=15
+
+Time 4
+Waiting clients: 
+Queue 4:[(3,1,1), (9,1,5), (2,3,4), (6,3,7)], waitingPeriod=17
+Queue 5:[(5,1,4), (1,2,6), (8,3,6)], waitingPeriod=16
+Queue 6:[(7,1,2), (0,2,5), (4,3,7)], waitingPeriod=14
+
+Time 5
+Waiting clients: 
+Queue 4:[(9,1,5), (2,3,4), (6,3,7)], waitingPeriod=16
+Queue 5:[(5,1,3), (1,2,6), (8,3,6)], waitingPeriod=15
+Queue 6:[(7,1,1), (0,2,5), (4,3,7)], waitingPeriod=13
+
+Time 6
+Waiting clients: 
+Queue 4:[(9,1,4), (2,3,4), (6,3,7)], waitingPeriod=15
+Queue 5:[(5,1,2), (1,2,6), (8,3,6)], waitingPeriod=14
+Queue 6:[(0,2,5), (4,3,7)], waitingPeriod=12
+
+Time 7
+Waiting clients: 
+Queue 4:[(9,1,3), (2,3,4), (6,3,7)], waitingPeriod=14
+Queue 5:[(5,1,1), (1,2,6), (8,3,6)], waitingPeriod=13
+Queue 6:[(0,2,4), (4,3,7)], waitingPeriod=11
+
+Time 8
+Waiting clients: 
+Queue 4:[(9,1,2), (2,3,4), (6,3,7)], waitingPeriod=13
+Queue 5:[(1,2,6), (8,3,6)], waitingPeriod=12
+Queue 6:[(0,2,3), (4,3,7)], waitingPeriod=10
+
+Time 9
+Waiting clients: 
+Queue 4:[(9,1,1), (2,3,4), (6,3,7)], waitingPeriod=12
+Queue 5:[(1,2,5), (8,3,6)], waitingPeriod=11
+Queue 6:[(0,2,2), (4,3,7)], waitingPeriod=9
+
+Time 10
+Waiting clients: 
+Queue 4:[(2,3,4), (6,3,7)], waitingPeriod=11
+Queue 5:[(1,2,4), (8,3,6)], waitingPeriod=10
+Queue 6:[(0,2,1), (4,3,7)], waitingPeriod=8
+
+Time 11
+Waiting clients: 
+Queue 4:[(2,3,3), (6,3,7)], waitingPeriod=10
+Queue 5:[(1,2,3), (8,3,6)], waitingPeriod=9
+Queue 6:[(4,3,7)], waitingPeriod=7
+
+Time 12
+Waiting clients: 
+Queue 4:[(2,3,2), (6,3,7)], waitingPeriod=9
+Queue 5:[(1,2,2), (8,3,6)], waitingPeriod=8
+Queue 6:[(4,3,6)], waitingPeriod=6
+
+Time 13
+Waiting clients: 
+Queue 4:[(2,3,1), (6,3,7)], waitingPeriod=8
+Queue 5:[(1,2,1), (8,3,6)], waitingPeriod=7
+Queue 6:[(4,3,5)], waitingPeriod=5
+
+Time 14
+Waiting clients: 
+Queue 4:[(6,3,7)], waitingPeriod=7
+Queue 5:[(8,3,6)], waitingPeriod=6
+Queue 6:[(4,3,4)], waitingPeriod=4
+
+Time 15
+Waiting clients: 
+Queue 4:[(6,3,6)], waitingPeriod=6
+Queue 5:[(8,3,5)], waitingPeriod=5
+Queue 6:[(4,3,3)], waitingPeriod=3
+
+Time 16
+Waiting clients: 
+Queue 4:[(6,3,5)], waitingPeriod=5
+Queue 5:[(8,3,4)], waitingPeriod=4
+Queue 6:[(4,3,2)], waitingPeriod=2
+
+Time 17
+Waiting clients: 
+Queue 4:[(6,3,4)], waitingPeriod=4
+Queue 5:[(8,3,3)], waitingPeriod=3
+Queue 6:[(4,3,1)], waitingPeriod=1
+
+Time 18
+Waiting clients: 
+Queue 4:[(6,3,3)], waitingPeriod=3
+Queue 5:[(8,3,2)], waitingPeriod=2
+Queue 6:[], waitingPeriod=0
+
+Time 19
+Waiting clients: 
+Queue 4:[(6,3,2)], waitingPeriod=2
+Queue 5:[(8,3,1)], waitingPeriod=1
+Queue 6:[], waitingPeriod=0
+
